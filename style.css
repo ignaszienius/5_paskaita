@@ -2,15 +2,72 @@ body {
 	background-color: grey;
 }
 
-.spacingg {
+h2 {
+	color: white
+}
+
+div {
+	text-align: center;
+}
+.brd {
+	border-style: solid;
+	border-color: white;
+	border-width:2px;
+	padding: 1px;
+	margin: 2px;
+
+}
+
+.spacing {
 	padding: 20px
 }
 
+.left {
+	background-color: blue;
+
+}
+
 .right {
+	background-color: red;
+
+}
+
+.black {
+	background-color: black
+}
+
+.yellow {
+	background-color: yellow
+}
+
+.grey {
+	background-color: grey
+}
+
+.red {
 	background-color: red
 }
 
-.left {
-	background-color: blue
+.lightpink {
+	background-color: lightpink
 }
 
+.green {
+	background-color: green
+}
+
+.hotpink {
+	background-color: hotpink
+}
+
+.orchid {
+	background-color: orchid
+}
+
+.white {
+	background-color: white
+}
+
+#white {
+	color:black
+}
